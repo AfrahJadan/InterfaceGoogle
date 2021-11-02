@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InterfaceGoogle</string>
+    <string name="create_your_google_account">Create your Google Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="image">IMAGE</string>
+    <string name="username">UserName</string>
+    <string name="imageGoog">TODO</string>
+    <string name="image_google">IMAGEGOOGLE</string>
+    <string name="you_can_use_letters_numbers_periods"><![CDATA[you can use letters, numbers & periods]]></string>
+    <string name="use_my_current_email_address_instead">Use My Current Email Address Instead</string>
+    <string name="password">Password</string>
+    <string name="use_8_or_more_characters_with_a_max_of_letters_numbers_symbols"><![CDATA[Use 8 or more characters with a max of letters, numbers & Symbols]]></string>
+    <string name="next">Next</string>
+    <string name="sign_in_instead">Sign in instead</string>
+    <string name="show_password">Show Password</string>
+    <string name="username_gmail_com">username @Gmail.com</string>
+</resources>
